@@ -1,13 +1,13 @@
 import math
 
 # Метод print() для виведення на екран.
-print("Hello World!")
-print("The", "quick", "brown", "fox")  # кілька аргументів
+print("Hello\n World!")
+print("The", "quick", "yellow", "fox")  # кілька аргументів
 print("The", 1, True)  # кілька типів даних
 
 # Метод input() для отримання вводу від користувача
 # age = input("Введіть ваш вік: ")
-age = str(34)
+age = str(19)
 print("Ваш вік", age, "роки.")
 print(f"Ваш вік {age} роки.") # в фігурних дужках ми візьмемо значення змінної
 
